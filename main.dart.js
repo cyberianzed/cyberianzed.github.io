@@ -67576,7 +67576,7 @@ s[2]=B.d.hZ(s[2])
 s[3]=B.d.hZ(s[3])}}
 A.Fc.prototype={
 L(a){var s=null,r=A.aV(a),q=A.ag8(B.a7,s).RG,p=A.fG(q.a),o=A.fG(q.b),n=A.fG(q.c),m=A.fG(q.e),l=A.fG(q.f),k=A.fG(q.r),j=A.fG(q.w),i=A.fG(q.x),h=A.fG(q.y),g=A.fG(q.z),f=A.fG(q.Q),e=A.fG(q.as)
-return new A.vG(new A.Ej(s),new A.ZA(),"Flutter Portfolio",r.a3a(B.ff,B.p,B.an,B.ff,A.ag6(s,s,s,h,g,e,f,s,s,s,p,o,n,m,l,k,s,s,s,s,s,s,A.fG(q.ax),j,i,s,s,s)),B.vw,!1,s)}}
+return new A.vG(new A.Ej(s),new A.ZA(),"JK CyberianWEB",r.a3a(B.ff,B.p,B.an,B.ff,A.ag6(s,s,s,h,g,e,f,s,s,s,p,o,n,m,l,k,s,s,s,s,s,s,A.fG(q.ax),j,i,s,s,s)),B.vw,!1,s)}}
 A.ZA.prototype={
 $2(a,b){var s=null,r=A.b([new A.d_(450,"MOBILE",B.b4,1),new A.d_(800,"TABLET",B.b4,1),new A.d_(1000,"TABLET",B.b4,1),new A.d_(1200,"DESKTOP",B.b4,1),new A.d_(2460,"4K",B.b4,1)],t.ym)
 return A.nn(B.az,A.b7(s,s,B.ff,s,s,s,s,s,s),s,r,new A.Cm(b,s),!1,s,!0,1,s,s,450,!1)},
@@ -72757,7 +72757,7 @@ c=A.arf(28,0)
 a[o]=new A.BM(A.b7(b,A.jk(A.b([n,m,l,k,j,i,h,g,f,e,A.ex(A.b7(b,A.Iq(A.eh("GET STARTED",b,A.cC(b,b,B.i,b,b,b,b,b,b,b,b,13,b,b,B.O,b,b,!0,b,b,b,b,b,b,b,b),b,b),new A.adm(),b),b,b,d,48,b,c,b),B.ay,b,b,b)],p),B.aW,B.cX,B.rI),b,b,b,b,b,b,b),A.by(A.afn("assets/person.jpg",B.wj,b),400,b))}return a})
 q($,"aCJ","ahM",()=>A.b([A.T6("assets/design.png","A full stack allround designer thay may or may not include a guide for specific creative","DESIGN"),A.T6("assets/develop.png","A full stack allround developer thay may or may not include a guide for specific creative","DEVELOP"),A.T6("assets/write.png","A full stack allround writer thay may or may not include a guide for specific creative","WRITE"),A.T6("assets/promote.png","A full stack allround promoter thay may or may not include a guide for specific creative","PROMOTE")],A.a_("r<D_*>")))
 q($,"aCL","ap5",()=>{var p="+91 6282802991",o="assets/whatsapp.png"
-return A.b([A.Wg("assets/phone.png",p,"PHONE"),A.Wg("assets/email.png","josekjames5@gmail.com","EMAIL"),A.Wg(o,p,"WHATSAPP"),A.Wg(o,p,"TELEGRAM")],A.a_("r<p9*>"))})
+return A.b([A.Wg("assets/phone.png",p,"PHONE"),A.Wg("assets/email.png","josekjames5@gmail.com","EMAIL"),A.Wg(o,p,"WHATSAPP"),A.Wg(o,"https://t.me/Im_Joz","TELEGRAM")],A.a_("r<p9*>"))})
 q($,"aCN","aeA",()=>A.b([A.uS(!1,new A.adH(),"HOME"),A.uS(!1,new A.adI(),"ABOUT ME"),A.uS(!1,new A.adJ(),"SERVICES"),A.uS(!1,new A.adK(),"PORTFOLIO"),A.uS(!1,new A.adL(),"BLOGS"),A.uS(!0,new A.adM(),"HIRE ME")],A.a_("r<pe*>")))
 q($,"aCY","apa",()=>A.b([A.ag1("5+","Clients"),A.ag1("20+","Projects"),A.ag1("2+","Years\nExperience")],A.a_("r<qs*>")))
 q($,"aCX","ap9",()=>A.b([A.a4L(85,"Flutter"),A.a4L(80,"Dart"),A.a4L(75,"Java"),A.a4L(60,"UI/UX")],A.a_("r<ql*>")))
